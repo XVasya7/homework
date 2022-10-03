@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ivan Oleksin</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+</head>
+<body>
+    <div class="center-img">
+        
+            <span class="photo1"><img src="304913495_1116414925899133_7134682079771802483_n.jpg"></span>
+        
+        
+        
+            <span class="photo1"><img src="bfc9295c303c635dd639ab68da6e621e.jpg"></span>
+        
+        
+        
+            <span class="photo1"><img src="300982797_426078462835834_2454147333240333947_n.jpg"></span>
+        
+    </div>
+    <div class="center-img2">
+        
+            <span class="photo1"><img src="307986728_3429414607384442_268184829800063022_n.jpg"></span>
+        
+            <span class="photo1"><img src="223373_2_trinixy_ru.jpg"></span>
+        
+        
+            <span class="photo1"><img src="286406885_1050299188904128_7508238358497324385_n.jpg"></span>
+        
+        
+    </div>
+    <style>
+        .center-img{
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+            
+        }
+        .center-img2{
+            display: block;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .photo1 {
+            border: 10px;
+        }
+        
+
+    </style>
+</body>
+</html>
